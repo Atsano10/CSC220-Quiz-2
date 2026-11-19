@@ -13,12 +13,14 @@ Problem 1: Min Cost to Connect All Points (LeetCode #1584)
 
 Algorithm Focus: Minimum Spanning Tree (Kruskal’s Algorithm)
 Problem Statement: You are given an array points representing integer coordinates of some points on a 2D-plane, where points[i] = [xi, yi]. The cost of connecting two points is the Manhattan distance between them. Return the minimum cost to make all points connected.
+
 Link: https://leetcode.com/problems/min-cost-to-connect-all-points/
 
 Problem 2: Find the City With the Smallest Number of Neighbors at a Threshold Distance (LeetCode #1334)
 
 Algorithm Focus: All-Pairs Shortest Path (Floyd-Warshall Algorithm)
 Problem Statement: There are n cities numbered from 0 to n − 1. Given the array edges where edges[i] = [from, to, weight] represents a bidirectional and weighted edge, and an integer distanceThreshold. Return the city with the smallest number of cities that are reachable through some path and whose distance is at most distanceThreshold. If there are multiple such cities, return the city with the greatest number.
+
 Link: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighborsat-a-threshold-distance/
 
 Part 2: Demo Time & Grading
