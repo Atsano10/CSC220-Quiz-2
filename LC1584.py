@@ -44,6 +44,7 @@ class Solution(object):
                     break
         return total
 
-# For presentation purposes: We list every possible connection, sort them by cost, and greedily take the cheapest one that doesn’t create a cycle. 
+# For presentation purposes: 
+# We list every possible connection, sort them by cost, and greedily take the cheapest one that doesn’t create a cycle. 
 # Union-Find tells us whether two points are already connected. Once we have n − 1 connections, everything is linked at the minimum cost.
 
