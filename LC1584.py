@@ -48,6 +48,6 @@ class Solution(object):
 # We list every possible connection, sort them by cost, and greedily take the cheapest one that doesn’t create a cycle. 
 # Union-Find tells us whether two points are already connected. Once we have n − 1 connections, everything is linked at the minimum cost.
 # Overall the time complexity for this problem is O(n^2log(n)) and O(n^2) space. 
-# Building the edges takes n^2 and then sorting them takes n^2log(n) so the total cost is O(n^2log(n)). This happens if we check every edge once. 
-# Space is O(n^2) because for the list of all edges which comes from going through the parent and rank array.
+# Building the edges takes n^2 and then sorting them takes n^2log(n) so the total cost is O(n^2log(n)).
+# The space complexity is O(n^2) for the list of all edges. The parent and rank arrays are only O(n).
 
