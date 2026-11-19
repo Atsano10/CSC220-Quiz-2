@@ -4,6 +4,9 @@
   <b>LeetCode Interview Prep</b><br>
   <b>CSC 22000-P: Algorithms</b> • Fall 2026
 </p>
+<p align="center">
+  <b>Contributors:</b> Apostolos Tsano, Junyu Chen, Haoyang Liang
+</p>
 
 ---
 
