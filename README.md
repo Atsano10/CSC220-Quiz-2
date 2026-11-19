@@ -26,7 +26,8 @@ Link: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-ne
 ___________________________________________________________________________________________________________________________________________________________________
 
 Part 2: Demo Time & Grading
-At the end of the time limit, one person from your group will present for the entire group.
+
+- At the end of the time limit, one person from your group will present for the entire group.
 
 Presentation Format (2 Minutes Maximum):
 1. Algorithms: Tell the class which graph algorithm you used for each of the two problems.
