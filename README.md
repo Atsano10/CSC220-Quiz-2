@@ -16,8 +16,8 @@ Problem Statement: You are given an array points representing integer coordinate
 
 Link: https://leetcode.com/problems/min-cost-to-connect-all-points/
 
-Time Complexity: O(n^2 log n^2)
-Space Complexity: O(n^2)
+- Time Complexity: O(n^2 log n^2)
+- Space Complexity: O(n^2)
 
 Problem 2: Find the City With the Smallest Number of Neighbors at a Threshold Distance (LeetCode #1334)
 
@@ -26,8 +26,8 @@ Problem Statement: There are n cities numbered from 0 to n − 1. Given the arra
 
 Link: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighborsat-a-threshold-distance/
 
-Time Complexity: O(n^3)
-Space Complexity: O(n^2)
+- Time Complexity: O(n^3)
+- Space Complexity: O(n^2)
 
 ___________________________________________________________________________________________________________________________________________________________________
 
